@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TimaverkefniGit</string>
+    <string name="hello_world">Ívan Bjarni Jónsson og Snorri Ágúst Snorrason!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
