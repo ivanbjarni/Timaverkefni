@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">TimaverkefniGit</string>
-    <string name="hello_world">Ívan Bjarni Jónsson og Snorri Ágúst Snorrason(hann á ekki fartölvu og fékk leyfi frá aðstoðarkennara til að vinna með mér)!</string>
+    <string name="hello_world">Ívan Bjarni Jónsson og Snorri Ágúst Snorrason(hann á ekki fartölvu og fékk leyfi frá aðstoðarkennara til að vinna með mér)! og Ágúst Heiðar hannessons og Árni Víðir Jóhannesson voru að fikta.</string>
     <string name="action_settings">Settings</string>
 
 </resources>
